@@ -1,7 +1,7 @@
-cs-mementos
+cs mementos
 ===========
 
-A library of computer science papers. Why? Because sometimes it seems that I can only remember the last framework, programming language or whatever drops in my feed reader, thus forgetting [this](http://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
+Why? Because sometimes it seems that I can only remember the last framework, programming language or whatever drops in my feed reader, thus forgetting [this](http://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants).
 
 Click on [`index.md`](https://github.com/pedrompereira/cs-mementos/blob/master/index.md) to browse.
 
