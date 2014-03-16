@@ -6,6 +6,10 @@
 
 * Some Philosophical Problems from the Standpoint of Artificial Intelligence, *John McCarthy and Patrick J. Hayes* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1969/mcchay69.pdf))
 
+### 1978
+
+* Time, Clocks and the Ordering of Events in a Distributed System, *Leslie Lamport* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1978/time-clocks.pdf))
+
 ### 1993
 
 * The Early History Of Smalltalk, *Alan C. Kay* ([pdf - very bad copy](https://github.com/pedrompereira/cs-mementos/blob/master/1993/SmalltalkHistoryHOPL.pdf)), [here](http://worrydream.com/EarlyHistoryOfSmalltalk/) a clean version by Bret Victor
