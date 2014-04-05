@@ -21,3 +21,7 @@
 ### 1997
 
 * The Computer Revolution Hasn't Happened Yet, *Alan C. Kay* ([transcription](http://blog.moryton.net/2007/12/computer-revolution-hasnt-happened-yet.html))
+
+### 2008
+
+* Computation and State Machines, *Leslie Lamport* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/2008/state-machine.pdf))
