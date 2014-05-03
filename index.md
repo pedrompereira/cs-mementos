@@ -6,6 +6,11 @@
 
 * Some Philosophical Problems from the Standpoint of Artificial Intelligence, *John McCarthy and Patrick J. Hayes* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1969/mcchay69.pdf))
 
+### 1977
+
+* Can Programming Be Liberated From The Von Neumann Style?, *John Backus* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1977/Backus.pdf))
+
+
 ### 1978
 
 * Time, Clocks and the Ordering of Events in a Distributed System, *Leslie Lamport* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1978/time-clocks.pdf))
