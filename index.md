@@ -8,7 +8,7 @@
 
 ### 1977
 
-* Can Programming Be Liberated From The Von Neumann Style?, *John Backus* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1977/Backus.pdf))
+* Can Programming Be Liberated From The Von Neumann Style?, *John Backus* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1977/Backus.pdf)) - 1978 Turing Award Lecture
 
 
 ### 1978
