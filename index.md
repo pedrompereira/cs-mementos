@@ -14,6 +14,7 @@
 ### 1978
 
 * Time, Clocks and the Ordering of Events in a Distributed System, *Leslie Lamport* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1978/time-clocks.pdf))
+* A review of the 1977 Turing Award Lecture by John Backus, *Edsger W. Dijkstra* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1978/EWD692.pdf))
 
 ### 1993
 
