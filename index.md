@@ -10,11 +10,14 @@
 
 * Can Programming Be Liberated From The Von Neumann Style?, *John Backus* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1977/Backus.pdf)) - 1978 Turing Award Lecture
 
-
 ### 1978
 
 * Time, Clocks and the Ordering of Events in a Distributed System, *Leslie Lamport* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1978/time-clocks.pdf))
 * A review of the 1977 Turing Award Lecture by John Backus, *Edsger W. Dijkstra* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1978/EWD692.pdf))
+
+### 1988
+
+* Lectures on Constructive Functional Programming, *R. S. Bird* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1988/PRG69.pdf))
 
 ### 1993
 
@@ -31,7 +34,6 @@
 ### 1999
 
 * A tutorial on the universality and expressiveness of fold, *Graham Hutton* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1999/fold.pdf))
-
 
 ### 2008
 
