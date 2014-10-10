@@ -35,6 +35,10 @@
 
 * A tutorial on the universality and expressiveness of fold, *Graham Hutton* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1999/fold.pdf))
 
+### 2006
+
+* Out of the Tar Pit, *Ben Moseley and Peter Marks* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/2006/out-of-the-tar-pit.pdf))
+
 ### 2008
 
 * Computation and State Machines, *Leslie Lamport* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/2008/state-machine.pdf))
