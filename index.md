@@ -15,6 +15,10 @@
 * Time, Clocks and the Ordering of Events in a Distributed System, *Leslie Lamport* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1978/time-clocks.pdf))
 * A review of the 1977 Turing Award Lecture by John Backus, *Edsger W. Dijkstra* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1978/EWD692.pdf))
 
+### 1982
+
+* The Byzantine Generals Problem, *Leslie Lamport, Robert Shostak, and Marshall Pease* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1982/byz.pdf))
+
 ### 1988
 
 * Lectures on Constructive Functional Programming, *R. S. Bird* ([pdf](https://github.com/pedrompereira/cs-mementos/blob/master/1988/PRG69.pdf))
